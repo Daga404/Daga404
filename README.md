@@ -74,6 +74,27 @@ Sou aberta a qualquer área de TI, sempre animada pra aprender coisas novas! ✨
 
 ---
 
+## 🍒 Minhas habilidades
+
+<div align="center">
+<br/>
+
+![HTML5](https://img.shields.io/badge/HTML5-88%25-e8608a?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-82%25-e8608a?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-74%25-d4537e?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-65%25-d4537e?style=for-the-badge&logo=react&logoColor=white)
+![Git](https://img.shields.io/badge/Git-70%25-d4537e?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-68%25-d4537e?style=for-the-badge&logo=figma&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-58%25-f48db4?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-62%25-f48db4?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-40%25-fbc4d8?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-40%25-fbc4d8?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br/>
+</div>
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -85,106 +106,6 @@ Sou aberta a qualquer área de TI, sempre animada pra aprender coisas novas! ✨
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Daga404&locale=pt_BR&background=fff8fb&border=f4bcd4&ring=e8608a&fire=d4537e&currStreakLabel=e8608a&sideLabels=d4537e&dates=b06080&stroke=fde8f0&border_radius=12" />
-
-<br/>
-</div>
-
----
-
-## 🍒 Minhas habilidades
-
-<div align="center">
-<br/>
-
-<svg width="580" height="370" viewBox="0 0 580 370" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- fundo -->
-  <rect width="580" height="370" rx="16" fill="#fff8fb" stroke="#f4bcd4" stroke-width="1.5"/>
-
-  <!-- título -->
-  <text x="290" y="30" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="13" fill="#e8608a" font-weight="bold">🍒 feito por mim com carinho · cada barra = nível atual 🌸</text>
-
-  <!-- linha separadora -->
-  <line x1="20" y1="40" x2="560" y2="40" stroke="#f4bcd4" stroke-width="1"/>
-
-  <!-- HTML5 -->
-  <text x="18" y="68" font-family="Segoe UI, sans-serif" font-size="13" fill="#7a1a3e">🌐 HTML5</text>
-  <rect x="155" y="57" width="310" height="11" rx="5" fill="#fde8f0"/>
-  <rect x="155" y="57" width="273" height="11" rx="5" fill="#e8608a"/>
-  <text x="474" y="67" font-family="Segoe UI, sans-serif" font-size="12" fill="#c94070" font-weight="bold">88%</text>
-  <text x="508" y="67" font-family="Segoe UI, sans-serif" font-size="11" fill="#b06080">Avançado</text>
-
-  <!-- CSS3 -->
-  <text x="18" y="98" font-family="Segoe UI, sans-serif" font-size="13" fill="#7a1a3e">🎨 CSS3</text>
-  <rect x="155" y="87" width="310" height="11" rx="5" fill="#fde8f0"/>
-  <rect x="155" y="87" width="254" height="11" rx="5" fill="#e8608a"/>
-  <text x="474" y="97" font-family="Segoe UI, sans-serif" font-size="12" fill="#c94070" font-weight="bold">82%</text>
-  <text x="508" y="97" font-family="Segoe UI, sans-serif" font-size="11" fill="#b06080">Avançado</text>
-
-  <!-- JavaScript -->
-  <text x="18" y="128" font-family="Segoe UI, sans-serif" font-size="13" fill="#7a1a3e">⚡ JavaScript</text>
-  <rect x="155" y="117" width="310" height="11" rx="5" fill="#fde8f0"/>
-  <rect x="155" y="117" width="230" height="11" rx="5" fill="#d4537e"/>
-  <text x="474" y="127" font-family="Segoe UI, sans-serif" font-size="12" fill="#c94070" font-weight="bold">74%</text>
-  <text x="504" y="127" font-family="Segoe UI, sans-serif" font-size="11" fill="#b06080">Intermediário</text>
-
-  <!-- React.js -->
-  <text x="18" y="158" font-family="Segoe UI, sans-serif" font-size="13" fill="#7a1a3e">⚛️ React.js</text>
-  <rect x="155" y="147" width="310" height="11" rx="5" fill="#fde8f0"/>
-  <rect x="155" y="147" width="202" height="11" rx="5" fill="#d4537e"/>
-  <text x="474" y="157" font-family="Segoe UI, sans-serif" font-size="12" fill="#c94070" font-weight="bold">65%</text>
-  <text x="504" y="157" font-family="Segoe UI, sans-serif" font-size="11" fill="#b06080">Intermediário</text>
-
-  <!-- Git / GitHub -->
-  <text x="18" y="188" font-family="Segoe UI, sans-serif" font-size="13" fill="#7a1a3e">🐙 Git / GitHub</text>
-  <rect x="155" y="177" width="310" height="11" rx="5" fill="#fde8f0"/>
-  <rect x="155" y="177" width="217" height="11" rx="5" fill="#d4537e"/>
-  <text x="474" y="187" font-family="Segoe UI, sans-serif" font-size="12" fill="#c94070" font-weight="bold">70%</text>
-  <text x="504" y="187" font-family="Segoe UI, sans-serif" font-size="11" fill="#b06080">Intermediário</text>
-
-  <!-- Figma -->
-  <text x="18" y="218" font-family="Segoe UI, sans-serif" font-size="13" fill="#7a1a3e">🖌️ Figma</text>
-  <rect x="155" y="207" width="310" height="11" rx="5" fill="#fde8f0"/>
-  <rect x="155" y="207" width="211" height="11" rx="5" fill="#d4537e"/>
-  <text x="474" y="217" font-family="Segoe UI, sans-serif" font-size="12" fill="#c94070" font-weight="bold">68%</text>
-  <text x="504" y="217" font-family="Segoe UI, sans-serif" font-size="11" fill="#b06080">Intermediário</text>
-
-  <!-- Node.js -->
-  <text x="18" y="248" font-family="Segoe UI, sans-serif" font-size="13" fill="#7a1a3e">🟢 Node.js</text>
-  <rect x="155" y="237" width="310" height="11" rx="5" fill="#fde8f0"/>
-  <rect x="155" y="237" width="180" height="11" rx="5" fill="#f48db4"/>
-  <text x="474" y="247" font-family="Segoe UI, sans-serif" font-size="12" fill="#c94070" font-weight="bold">58%</text>
-  <text x="498" y="247" font-family="Segoe UI, sans-serif" font-size="11" fill="#b06080">Básico-Inter.</text>
-
-  <!-- SQL -->
-  <text x="18" y="278" font-family="Segoe UI, sans-serif" font-size="13" fill="#7a1a3e">🗄️ SQL</text>
-  <rect x="155" y="267" width="310" height="11" rx="5" fill="#fde8f0"/>
-  <rect x="155" y="267" width="192" height="11" rx="5" fill="#f48db4"/>
-  <text x="474" y="277" font-family="Segoe UI, sans-serif" font-size="12" fill="#c94070" font-weight="bold">62%</text>
-  <text x="504" y="277" font-family="Segoe UI, sans-serif" font-size="11" fill="#b06080">Intermediário</text>
-
-  <!-- Governança TI -->
-  <text x="18" y="308" font-family="Segoe UI, sans-serif" font-size="13" fill="#7a1a3e">📐 Governança TI</text>
-  <rect x="155" y="297" width="310" height="11" rx="5" fill="#fde8f0"/>
-  <rect x="155" y="297" width="186" height="11" rx="5" fill="#f48db4"/>
-  <text x="474" y="307" font-family="Segoe UI, sans-serif" font-size="12" fill="#c94070" font-weight="bold">60%</text>
-  <text x="504" y="307" font-family="Segoe UI, sans-serif" font-size="11" fill="#b06080">Intermediário</text>
-
-  <!-- Java -->
-  <text x="18" y="338" font-family="Segoe UI, sans-serif" font-size="13" fill="#7a1a3e">☕ Java</text>
-  <rect x="155" y="327" width="310" height="11" rx="5" fill="#fde8f0"/>
-  <rect x="155" y="327" width="124" height="11" rx="5" fill="#fbc4d8"/>
-  <text x="474" y="337" font-family="Segoe UI, sans-serif" font-size="12" fill="#c94070" font-weight="bold">40%</text>
-  <text x="502" y="337" font-family="Segoe UI, sans-serif" font-size="11" fill="#b06080">Estudando 🌱</text>
-
-  <!-- MySQL -->
-  <text x="18" y="362" font-family="Segoe UI, sans-serif" font-size="13" fill="#7a1a3e">🐬 MySQL</text>
-  <rect x="155" y="351" width="310" height="11" rx="5" fill="#fde8f0"/>
-  <rect x="155" y="351" width="124" height="11" rx="5" fill="#fbc4d8"/>
-  <text x="474" y="361" font-family="Segoe UI, sans-serif" font-size="12" fill="#c94070" font-weight="bold">40%</text>
-  <text x="502" y="361" font-family="Segoe UI, sans-serif" font-size="11" fill="#b06080">Estudando 🌱</text>
-
-</svg>
 
 <br/>
 </div>

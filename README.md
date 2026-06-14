@@ -1,143 +1,126 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Olá%2C+eu+sou+a+Carol.;Desenvolvedora+em+formação.;ADS+%7C+Estácio+2025.;Focando+no+back-end+agora+%3C%2F%3E" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=42&duration=3500&pause=1000&color=F0F6FC&center=true&vCenter=true&width=700&height=90&lines=Ana+Carolina+Daga.;desenvolvedora+em+formação.;ADS+·+Estácio+2025." />
 
 <br/>
 
-<img src="https://img.shields.io/badge/ADS%20·%20Estácio%202025-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/São%20José%20do%20Rio%20Preto%20·%20SP-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Buscando%201ª%20vaga%20em%20TI-222222?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ADS · Estácio 2025-f0f6fc?style=flat-square&labelColor=0d1117&color=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Java · Back--end-d2a679?style=flat-square&labelColor=0d1117&color=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/São José do Rio Preto · SP-484f58?style=flat-square&labelColor=0d1117&color=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/aberta a oportunidades-484f58?style=flat-square&labelColor=0d1117&color=0d1117" />
 
 </div>
 
----
+<br/>
 
-<h2 align="center">✦ sobre mim ✦</h2>
+<details open>
+<summary><b>01 &nbsp;·&nbsp; sobre mim</b></summary>
+<br/>
 
 ```java
 public class Carol {
-    String formacao = "ADS • Estácio";
-    String foco = "Back-end";
-    String estudando = "Java & MySQL";
-    String cidade = "São José do Rio Preto • SP";
+
+    // quem sou
+    String formacao   = "ADS · Estácio 2025";
+    String cidade     = "São José do Rio Preto · SP";
+
+    // o que faço
+    String[] domino     = { "HTML5", "CSS3", "JavaScript", "React" };
+    String[] aprendendo = { "Java", "MySQL", "Back-end" };
+    String[] extras     = { "Figma", "UI/UX", "Web Design" };
+
+    // objetivo
+    boolean primeiraVaga = true;
 }
 ```
 
-<p align="center">
-Desenvolvedora em formação apaixonada por tecnologia, interfaces minimalistas e desenvolvimento web.
+</details>
+
 <br/>
-Atualmente focando meus estudos em <b>Java</b>, <b>MySQL</b> e <b>back-end</b>.
-</p>
+
+<details open>
+<summary><b>02 &nbsp;·&nbsp; tecnologias</b></summary>
+<br/>
 
 <div align="center">
 
-| ✦ | informações |
-|---|---|
-| formação | ADS · Estácio 2025 |
-| foco atual | Java · MySQL · Back-end |
-| interesses | UI/UX · Web Design |
-| objetivo | Primeira oportunidade em TI |
-| localização | São José do Rio Preto · SP |
+**front-end**
+
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb)
+
+**back-end & banco de dados**
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Java](https://img.shields.io/badge/Java_★-0d1117?style=for-the-badge&logo=openjdk&logoColor=d2a679)
+![MySQL](https://img.shields.io/badge/MySQL_★-0d1117?style=for-the-badge&logo=mysql&logoColor=d2a679)
+
+**ferramentas**
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=f24e1e)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007acc)
+
+<sub>★ em aprendizado ativo</sub>
 
 </div>
 
----
+</details>
 
-<h2 align="center">✦ tecnologias ✦</h2>
+<br/>
+
+<details open>
+<summary><b>03 &nbsp;·&nbsp; estatísticas</b></summary>
+<br/>
 
 <div align="center">
 
-<h4>front-end</h4>
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-
-<h4>back-end & banco de dados</h4>
-<img src="https://skillicons.dev/icons?i=nodejs,java,mysql&theme=dark" />
-
-<h4>ferramentas</h4>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Daga404&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f0f6fc&icon_color=d2a679&text_color=484f58" />
+&nbsp;
+<img height="160em" src="https://streak-stats.demolab.com?user=Daga404&theme=dark&background=0d1117&stroke=161b22&ring=d2a679&fire=d2a679&currStreakLabel=f0f6fc&sideLabels=484f58&dates=21262d&border=161b22&border_radius=6" />
 
 </div>
 
----
+</details>
 
-<h2 align="center">✦ estudando atualmente ✦</h2>
+<br/>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Back--end-222222?style=for-the-badge" />
-
-<br/><br/>
-
-<code>const evolução = esforço + consistência;</code>
-
-</div>
-
----
-
-<h2 align="center">✦ habilidades ✦</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-88%25-000000?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-82%25-111111?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-74%25-1a1a1a?style=for-the-badge&logo=javascript&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/React-65%25-222222?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-70%25-2b2b2b?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-68%25-333333?style=for-the-badge&logo=figma&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Node.js-58%25-444444?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-62%25-555555?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-40%25-666666?style=for-the-badge&logo=openjdk&logoColor=white" />
-
-</div>
-
----
-
-<h2 align="center">✦ estatísticas ✦</h2>
-
-<div align="center">
-
-<img height="170em" src="https://streak-stats.demolab.com?user=Daga404&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=d9d9d9&border=333333&border_radius=12"/>
-
-</div>
-
----
-
-<h2 align="center">✦ contato ✦</h2>
-
-<br/><br/>
+<details open>
+<summary><b>04 &nbsp;·&nbsp; contato</b></summary>
+<br/>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ana-carolina-daga-6a8595406/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
 </a>
-
+&nbsp;
 <a href="https://github.com/Daga404">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
-
+&nbsp;
 <a href="mailto:caroldaga2@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-222222?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Daga404&color=grey&style=for-the-badge&label=VISITAS" />
+<img src="https://komarev.com/ghpvc/?username=Daga404&color=21262d&style=flat-square&label=visitas" />
 
 </div>
+
+</details>
+
+<br/>
 
 ---
 
 <div align="center">
-
-✦ feito por Carol · Java · Back-end · 2026 ✦
-
+<sub>ana carolina daga &nbsp;·&nbsp; ads · estácio 2025 &nbsp;·&nbsp; são josé do rio preto</sub>
 </div>

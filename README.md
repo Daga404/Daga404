@@ -256,13 +256,13 @@ public class Carol {
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Daga404&show_icons=true&theme=transparent&hide_border=true&bg_color=FFF6FA&title_color=5A3A55&icon_color=F27FB1&text_color=7D5C75&rank_icon=github" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=dagadevs&show_icons=true&theme=transparent&hide_border=true&bg_color=FFF6FA&title_color=5A3A55&icon_color=F27FB1&text_color=7D5C75&rank_icon=github" />
 &nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daga404&layout=compact&theme=transparent&hide_border=true&bg_color=FFF6FA&title_color=5A3A55&text_color=7D5C75" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagadevs&layout=compact&theme=transparent&hide_border=true&bg_color=FFF6FA&title_color=5A3A55&text_color=7D5C75" />
 
 <br/><br/>
 
-<img width="720em" src="https://streak-stats.demolab.com?user=Daga404&theme=transparent&background=FFF6FA&stroke=F7B7D2&ring=F27FB1&fire=F48AB7&currStreakLabel=5A3A55&sideLabels=7D5C75&dates=9B7A92&border=F7B7D2&border_radius=8" />
+<img width="720em" src="https://streak-stats.demolab.com?user=dagadevs&theme=transparent&background=FFF6FA&stroke=F7B7D2&ring=F27FB1&fire=F48AB7&currStreakLabel=5A3A55&sideLabels=7D5C75&dates=9B7A92&border=F7B7D2&border_radius=8" />
 
 </div>
 

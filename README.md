@@ -9,13 +9,9 @@
 
 <sub>desenvolvedora em formação</sub>
 
-<br/><br/>
-
 <img src="https://img.shields.io/badge/Java-F27FB1?style=flat-square&labelColor=5A3A55&color=F27FB1" />
 &nbsp;
 <img src="https://img.shields.io/badge/MySQL-F7B7D2?style=flat-square&labelColor=5A3A55&color=F7B7D2" />
-
-<br/><br/>
 
 </div>
 

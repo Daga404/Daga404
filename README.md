@@ -1,12 +1,7 @@
 
 <div align="center">
 
-<br/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&duration=3300&pause=900&color=F27FB1&center=true&vCenter=true&width=650&height=75&lines=Carol+%E2%9C%A7;Java+%C2%B7+Back-end" />
-
-<br/>
-
 <sub>desenvolvedora em formação</sub>
 
 <img src="https://img.shields.io/badge/Java-F27FB1?style=flat-square&labelColor=5A3A55&color=F27FB1" />
